@@ -1,0 +1,12 @@
+{
+  "name": "@kard/toast",
+  "version": "0.1.0",
+  "description": "Please note that the Toast is NOT A JSX COMPONENT but just a JavaScript class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
