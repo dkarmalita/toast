@@ -1,5 +1,5 @@
 `use strict`
-require('./Toast.min.css')
+require('./Toast.css')
 
 class Toast {
   constructor(options){
